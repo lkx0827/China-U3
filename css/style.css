@@ -198,8 +198,6 @@ p {
 /*--//about--*/
 /*--slid--*/
 .slid {
-    background: url("../images/slid.jpg")no-repeat center fixed;
-    background-size:cover;
     min-height: 458px;
 	position:relative;
 	overflow:hidden;
